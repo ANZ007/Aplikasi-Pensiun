@@ -11,13 +11,9 @@ Hanya source code dari proyek magang kedua
 7. End
 
 ## Default User
-### Role Rowai
-\- Email : karowai@example.com
-\- Password : 12345678
 
-### Role Satker
-\- Email : satker1@example.com
-\- Password : 12345678
-
-\- Email : satker2@example.com
-\- Password : 12345678
+| Role | Email | Password |
+|------|-------|----------|
+| Rowai | karowai@example.com | 12345678 |
+| Satker | satker1@example.com | 12345678 |
+| Satker | satker2@example.com | 12345678 |
